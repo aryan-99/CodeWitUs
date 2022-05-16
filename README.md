@@ -1,6 +1,6 @@
 # CodeWitUs
 
-[![Coverage Status](https://coveralls.io/repos/github/kbuffardi/CodeWitUs/badge.svg?branch=testing)](https://coveralls.io/github/kbuffardi/CodeWitUs?branch=testing)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec98aea05b8f460b9eb2f44a7ffdc5e7)](https://www.codacy.com/gh/aryan-99/CodeWitUs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aryan-99/CodeWitUs&amp;utm_campaign=Badge_Grade)
 
 > SEER Labs
 
